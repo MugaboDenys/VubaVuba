@@ -1,2 +1,2 @@
 # VubaVuba
-VubaVuba WebApp
+VubaVuba WebApp Frontend with bootstrap
